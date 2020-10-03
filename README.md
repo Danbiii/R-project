@@ -1,2 +1,4 @@
-# R-project
-R-code study
+## Exploratory Data Analysis (EDA)
+
+EDA projects using R-code 
+
